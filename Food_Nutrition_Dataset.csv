@@ -23,7 +23,6 @@ Banana nectar,Fruit drinks,74.0,0.26,18.01,0.13,0.0,4.3
 Banana pudding,Pudding,160.0,2.57,28.0,4.26,0.42,3.2
 Banana split,Ice cream and frozen dairy desserts,199.0,2.42,32.59,6.88,0.17,4.5
 "Bananas, raw",Fruits and Fruit Juices,371.0,1.09,22.8,0.33,0.26,8.7
-"Bananas, overripe, raw",Fruits and Fruit Juices,85.0,0.73,20.1,0.22,,9.7
 "Cake or cupcake, banana",Cakes and pies,379.0,2.47,53.07,17.51,0.88,1.0
 "Melon, banana (Navajo)",American Indian/Alaska Native Foods,90.0,0.84,4.06,0.2,0.21,8.1
 "Pepper, banana, raw",Vegetables and Vegetable Products,27.0,1.66,5.35,0.45,0.46,82.7
@@ -68,7 +67,6 @@ Mango nectar,Fruit drinks,51.0,0.11,13.12,0.06,0.36,15.2
 "Mango, dried, sweetened",Fruits and Fruit Juices,1340.0,2.45,78.6,1.18,0.23,42.3
 "Beverages, V8 SPLASH Smoothies, Peach Mango",Beverages,37.0,1.22,7.76,0.0,0.15,24.5
 "Yogurt, Greek, 2% fat, mango, CHOBANI",Dairy and Egg Products,93.0,7.64,11.8,1.69,0.03,0.0
-"Beverages, V8 SPLASH Juice Drinks, Mango Peach",Beverages,33.0,0.0,8.23,0.0,,24.7
 "Beverages, V8 V-FUSION Juices, Peach Mango",Beverages,49.0,0.41,11.4,0.0,0.15,24.4
 "Fruit juice smoothie, NAKED JUICE, MIGHTY MANGO",Fruits and Fruit Juices,262.0,0.42,15.0,0.0,0.15,2.5
 "Salsa, red, homemade",Tomato-based condiments,34.0,1.44,6.74,0.19,0.42,1.9
@@ -204,3 +202,4 @@ Garlic sauce,"Dips, gravies, other sauces",683.0,1.43,2.87,74.02,0.22,1.0
 "Fast foods, breadstick, soft, prepared with garlic and parmesan cheese",Fast Foods,1430.0,12.2,44.5,12.9,4.65,0.0
 "HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",Pork Products,492.0,17.8,1.79,4.16,0.6,1.7
 "Abiyuch, raw",Fruits and Fruit Juices,290.0,1.5,17.6,0.1,1.61,54.1
+
