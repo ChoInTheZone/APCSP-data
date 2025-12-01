@@ -174,7 +174,6 @@ Stewed potatoes with tomatoes,Mashed potatoes and white potato mixtures,87.0,1.7
 "Onion dip, regular","Dips, gravies, other sauces",346.0,2.15,3.92,35.77,0.1,0.9
 "Onion dip, light","Dips, gravies, other sauces",166.0,2.0,11.87,12.36,0.1,0.9
 "Bread, onion, toasted",Yeast breads,262.0,9.68,48.7,3.24,3.41,0.8
-"DENNY'S, onion rings",Restaurant Foods,385.0,5.29,41.0,22.2,0.74,
 Fried onion rings,Fried vegetables,352.0,4.19,39.94,19.82,0.96,1.5
 Onion flavored rings,"Tortilla, corn, other chips",499.0,7.7,65.1,22.6,3.72,1.8
 "Onions, cooked, as ingredient",Not included in a food category,47.0,1.29,10.99,0.12,0.25,7.4
@@ -183,7 +182,6 @@ Onion flavored rings,"Tortilla, corn, other chips",499.0,7.7,65.1,22.6,3.72,1.8
 "Onions, red, raw",Vegetables and Vegetable Products,44.0,0.94,9.93,0.1,0.24,8.1
 "Onions, sweet, raw",Vegetables and Vegetable Products,32.0,0.8,7.55,0.08,0.26,4.8
 "Onions, welsh, raw",Vegetables and Vegetable Products,142.0,1.9,6.5,0.4,1.22,27.0
-"Onions, white, raw",Vegetables and Vegetable Products,35.0,0.89,7.68,0.13,0.15,
 "Onions, yellow, raw",Vegetables and Vegetable Products,38.0,0.83,8.61,0.05,0.28,8.2
 Garlic sauce,"Dips, gravies, other sauces",683.0,1.43,2.87,74.02,0.22,1.0
 "Garlic, cooked",Mustard and other condiments,142.0,6.58,28.03,0.38,1.69,8.0
@@ -192,7 +190,6 @@ Garlic sauce,"Dips, gravies, other sauces",683.0,1.43,2.87,74.02,0.22,1.0
 "Garlic bread, frozen",Baked Products,1460.0,8.36,41.7,16.6,3.05,0.2
 "Garlic bread, NFS",Yeast breads,349.0,8.34,41.64,16.58,3.04,0.2
 "Garlic bread, from frozen",Yeast breads,350.0,8.36,41.72,16.61,3.05,0.2
-"PIZZA HUT, breadstick, parmesan garlic",Fast Foods,1430.0,12.2,44.5,12.9,4.65,
 "Garlic bread, from fast food / restaurant",Yeast breads,349.0,8.34,41.64,16.58,3.04,0.2
 "Garlic bread, with melted cheese, from frozen",Yeast breads,343.0,10.36,36.86,17.1,2.68,0.2
 "Garlic bread, with parmesan cheese, from frozen",Yeast breads,351.0,8.78,41.14,16.83,3.0,0.2
@@ -202,4 +199,5 @@ Garlic sauce,"Dips, gravies, other sauces",683.0,1.43,2.87,74.02,0.22,1.0
 "Fast foods, breadstick, soft, prepared with garlic and parmesan cheese",Fast Foods,1430.0,12.2,44.5,12.9,4.65,0.0
 "HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",Pork Products,492.0,17.8,1.79,4.16,0.6,1.7
 "Abiyuch, raw",Fruits and Fruit Juices,290.0,1.5,17.6,0.1,1.61,54.1
+
 
